@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ヒビカセ",
+  "base_artist": "れをる",
+  "createdAt": "2025-12-28T05:13:47.936653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒビカセ",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_ヒビカセ_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒビカセ [Resonate]",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_ヒビカセ_[Resonate]_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒビカセ",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/03_ヒビカセ_Reol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒビカセ",
+      "artist": "GigaP, Reol",
+      "has_synced": true,
+      "path": "select/04_ヒビカセ_GigaP,_Reol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒビカセ - Hibikase",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/05_ヒビカセ_-_Hibikase_Reol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒビカセ",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/06_ヒビカセ_Various.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒビカセ",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/07_ヒビカセ_Giga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒビカセ",
+      "artist": "GigaP",
+      "has_synced": true,
+      "path": "select/08_ヒビカセ_GigaP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒビカセ (feat. Reol)",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/09_ヒビカセ_(feat._Reol)_Giga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒビカセ",
+      "artist": "Giga-P",
+      "has_synced": true,
+      "path": "select/10_ヒビカセ_Giga-P.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒビカセ",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/pl_01_ヒビカセ_れをる.txt"
+    }
+  ]
+}
